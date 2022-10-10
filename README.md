@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **angelstchavez/angelstchavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,59 +14,65 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Angel Chavez</h1>
+<h1 align="center">Hi 👋, I'm Angel Chavez 👨🏻‍💻</h1>
 <h3 align="center">
-  A passionate junior frontend and backend developer from Colombia
+  ¡A passionate junior frontend and backend developer from Colombia!
 </h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=angelstchavez&label=Profile%20views&color=0e75b6&style=flat"
-    alt="angelstchavez"
-  />
-</p>
+<p align="center">Never stop learning. 🧠</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=angelstchavez&label=Profile%20views&color=080808&style=flat-square" alt="angelstchavez" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!--LINKEDIN-->
-  <a href="https://linkedin.com/in/angelstchavez" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
-      alt="angelstchavez"
-      height="40"
-      width="40"
-  /></a>
-  <!--INSTAGRAM-->
-  <a href="https://instagram.com/angelchavez___" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
-      alt="angelchavez___"
-      height="40"
-      width="40"
-  /></a>
-  <!--FACEBOOK-->
-  <a href="https://www.facebook.com/angelchz12" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
-      alt="angelchz12"
-      height="40"
-      width="40"
-  /></a>
-  <!--PLATZI-->
-  <a href="https://platzi.com/p/angelstchavez/" target="blank"
-    ><img
-      align="center"
-      src="https://static.platzi.com/media/avatars/avatars/angelstchavez_e7fcc7c1-d05b-4d03-93e8-12b4556517de.png"
-      alt="angelstchavez"
-      height="40"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
+    <!--LINKEDIN-->
+    <a href="https://linkedin.com/in/angelstchavez" target="blank"
+      ><img
+        align="center"
+        src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
+        alt="angelstchavez"
+        height="40"
+        width="40"
+    /></a>
+    <!--INSTAGRAM-->
+    <a href="https://instagram.com/angelchavez___" target="blank"
+      ><img
+        align="center"
+        src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+        alt="angelchavez___"
+        height="40"
+        width="40"
+    /></a>
+    <!--FACEBOOK-->
+    <a href="https://www.facebook.com/angelchz12" target="blank"
+      ><img
+        align="center"
+        src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
+        alt="angelchz12"
+        height="40"
+        width="40"
+    /></a>
+    <!--CREDLY-->
+    <a href="https://linkedin.com/in/angelstchavez" target="blank"
+      ><img
+        style="border-radius: 15%"
+        align="center"
+        src="https://images.credly.com/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png"
+        alt="angelstchavez"
+        height="40"
+        width="40"
+    /></a>
+    <!--PLATZI-->
+    <a href="https://platzi.com/p/angelstchavez/" target="blank"
+      ><img
+        style="border-radius: 15%"
+        align="center"
+        src="https://static.platzi.com/media/avatars/avatars/angelstchavez_e7fcc7c1-d05b-4d03-93e8-12b4556517de.png"
+        alt="angelstchavez"
+        height="40"
+        width="40"
+    /></a>
+  </p>
+  
+  <h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -137,11 +142,8 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-  <p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=angelstchavez&show_icons=true&locale=en&layout=compact"
-      alt="angelstchavez"
-    />
-  </p>
+ 
+ <div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelstchavez&show_icons=true&locale=en&layout=compact&theme=dark" alt="angelstchavez" />
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=angelstchavez&show_icons=true&locale=en&theme=dark" alt="angelstchavez" />
+</div>
