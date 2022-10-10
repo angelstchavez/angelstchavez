@@ -50,7 +50,7 @@ Here are some ideas to get you started:
         width="40"
     /></a>
     <!--CREDLY-->
-    <a href="https://linkedin.com/in/angelstchavez" target="blank"
+    <a href="https://www.credly.com/users/angel-chavez.e8353b95" target="blank"
       ><img
         style="border-radius: 15%"
         align="center"
