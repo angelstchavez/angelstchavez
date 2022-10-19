@@ -143,7 +143,3 @@ Here are some ideas to get you started:
   </a>
 </p>
  
- <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelstchavez&show_icons=true&locale=en&layout=compact&theme=dark" alt="angelstchavez" />
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=angelstchavez&show_icons=true&locale=en&theme=dark" alt="angelstchavez" />
-</div>
