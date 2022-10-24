@@ -28,24 +28,6 @@ Here are some ideas to get you started:
         height="40"
         width="40"
     /></a>
-    <!--INSTAGRAM-->
-    <a href="https://instagram.com/angelchavez___" target="blank"
-      ><img
-        align="center"
-        src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
-        alt="angelchavez___"
-        height="40"
-        width="40"
-    /></a>
-    <!--FACEBOOK-->
-    <a href="https://www.facebook.com/angelchz12" target="blank"
-      ><img
-        align="center"
-        src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
-        alt="angelchz12"
-        height="40"
-        width="40"
-    /></a>
     <!--CREDLY-->
     <a href="https://www.credly.com/users/angel-chavez.e8353b95" target="blank"
       ><img
