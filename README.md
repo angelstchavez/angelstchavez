@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Angel Chavez 👨🏻‍💻</h1>
-<h3 align="center">
-  ¡A passionate junior frontend and backend developer from Colombia!
-</h3>
 <p align="center">Never stop learning. 🧠</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=angelstchavez&label=Profile%20views&color=080808&style=flat-square" alt="angelstchavez" /> </p>
 
@@ -55,16 +52,6 @@ Here are some ideas to get you started:
         style="border-radius: 15%"
         align="center"
         src="https://images.credly.com/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png"
-        alt="angelstchavez"
-        height="40"
-        width="40"
-    /></a>
-    <!--PLATZI-->
-    <a href="https://platzi.com/p/angelstchavez/" target="blank"
-      ><img
-        style="border-radius: 15%"
-        align="center"
-        src="https://static.platzi.com/media/avatars/avatars/angelstchavez_e7fcc7c1-d05b-4d03-93e8-12b4556517de.png"
         alt="angelstchavez"
         height="40"
         width="40"
