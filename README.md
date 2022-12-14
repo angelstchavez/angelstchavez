@@ -14,16 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Angel Chavez 👨🏻‍💻</h1>
+<h1 align="center">Hi, I'm Angel Chavez 👨🏻‍💻</h1>
 <p align="center">Never stop learning. 🧠</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=angelstchavez&label=Profile%20views&color=080808&style=flat-square" alt="angelstchavez" /> </p>
+
+```
+const angelstchavez = {
+    pronouns: "he" | "him",
+    code: [C#, Java, HTML, CSS],
+    frameworks: [Spring Boot, .NET Framework],    
+    Languages: "Native Spanish"
+}
+```
 
 <p align="center">
     <!--LINKEDIN-->
     <a href="https://linkedin.com/in/angelstchavez" target="blank"
       ><img
         align="center"
-        src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
+        src="https://cdn-icons-png.flaticon.com/512/124/124011.png"
         alt="angelstchavez"
         height="40"
         width="40"
@@ -38,8 +47,8 @@ Here are some ideas to get you started:
         height="40"
         width="40"
     /></a>
-  </p>
-  
+  </p align="center">
+ 
   <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
