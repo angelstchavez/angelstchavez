@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 <p align="center">Never stop learning. 🧠</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=angelstchavez&label=Profile%20views&color=080808&style=flat-square" alt="angelstchavez" /> </p>
 
-```
-const angelstchavez = {
-    pronouns: "he" | "him",
-    code: [C#, Java, HTML, CSS],
-    frameworks: [Spring Boot, .NET Framework],    
-    Languages: "Native Spanish"
-}
-```
-
 <p align="center">
     <!--LINKEDIN-->
     <a href="https://linkedin.com/in/angelstchavez" target="blank"
