@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelstchavez&show_icons=true&locale=es&layout=compact" alt="Top lenguajes" />
-  <img src="https://github-readme-stats.vercel.app/api?username=angelstchavez&show_icons=true&locale=es" alt="Estadísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelstchavez&" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelstchavez&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelstchavez&theme=dark&hide_border=true" alt="Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelstchavez&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top lenguajes" />
 </p>
 
 ## Sobre mí
