@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelstchavez&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelstchavez&theme=dark&hide_border=true" alt="Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelstchavez&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top lenguajes" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=angelstchavez&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=angelstchavez&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelstchavez&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
